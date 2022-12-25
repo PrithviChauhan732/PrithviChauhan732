@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Market Microstructures
 - 💬 Ask me about Deep Learning and Applied Statistics
 - 📫 How to reach me: prithvic.chauhan@gmail.com
-- ⚡ Fun fact: I watched 21 movies in 21 days during the first lockdown on April'20.
 
 ### Connect with me:
 
