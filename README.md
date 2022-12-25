@@ -9,9 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Rupesh.com" width="22px" src="https://rupesh.info/assets/img/favicon.png" />](http://rupesh.info)
-[<img align="left" alt="Rupesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RUPESH5903)
-[<img align="left" alt="Rupesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rupesh-r-0418a399)
-[<img align="left" alt="Rupesh | Stack OverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7891596/rupesh)
+[<img align="left" alt="Prithvi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prithvic-chauhan/)
+[<img align="left" alt="Prithvi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />](https://instagram.com/prithvichauhan732?igshid=YmMyMTA2M2Y=)
 
 <br />
 
