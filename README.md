@@ -1,8 +1,8 @@
 ### Hi, I'm Prithvi 👋
 
-- 🔭 I’m a UG Sophomore at Economics Department, IIT Bombay
+- 🔭 I’m a UG Third Year Undergrad at Economics Department, IIT Bombay
 - 👨‍💻 Pursueing Minor in Computer Science
-- 🌱 I’m currently learning Market Microstructures
+- 🌱 I’m currently learning about Financial Markets
 - 💬 Ask me about Deep Learning and Applied Statistics
 - 📫 How to reach me: prithvic.chauhan@gmail.com
 
