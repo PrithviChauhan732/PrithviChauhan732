@@ -1,9 +1,7 @@
 ### Hi, I'm Prithvi 👋
 
-- 🔭 I’m a UG Third Year Undergrad at Economics Department, IIT Bombay
-- 👨‍💻 Pursueing Minor in Computer Science
-- 🌱 I’m currently learning about Financial Markets
-- 💬 Ask me about Deep Learning and Applied Statistics
+- 🔭 I’m a Graduate in Economics from IIT Bombay
+- 🌱 I’m currently working as an Associate Consultant at Finmechanics
 - 📫 How to reach me: prithvic.chauhan@gmail.com
 
 ### Connect with me:
