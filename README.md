@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Graduate in Economics from IIT Bombay
 - 🌱 I’m currently working as an Associate Consultant at Finmechanics
-- 📫 How to reach me: prithvic.chauhan@gmail.com
+- 📫 How to reach me: prithvichauhan.iitb@gmail.com
 
 ### Connect with me:
 
